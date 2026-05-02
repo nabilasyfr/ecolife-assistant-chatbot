@@ -1,3 +1,4 @@
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/5f326041-4b84-4dca-bc5c-8fa4e38ef955" />
 # 🌱 EcoLife Assistant Bot
 ### LLM-Based Environmental Chatbot with Gemini API Integration
 

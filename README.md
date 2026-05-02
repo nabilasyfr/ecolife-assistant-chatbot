@@ -1,10 +1,12 @@
-<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/5f326041-4b84-4dca-bc5c-8fa4e38ef955" />
 # 🌱 EcoLife Assistant Bot
 ### LLM-Based Environmental Chatbot with Gemini API Integration
 
 > **Final Project** | AI Engineering | Google Gemini + Streamlit
 
 ---
+
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/c1dda833-f1c3-477d-a096-01fc5649e6a0" />
+
 
 ## 📋 Table of Contents
 1. [Project Background](#1-project-background)
